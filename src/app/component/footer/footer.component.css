@@ -1,0 +1,15 @@
+
+footer ul li{
+  width: 35px;
+  height: 35px;
+  border: #fff  solid 1px;
+  border-radius: 50%;
+ border: inline 5px;
+}
+footer li{
+margin: 3px;
+}
+.copy{
+  background-color: #1A242F;
+
+}
